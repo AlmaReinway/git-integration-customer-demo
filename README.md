@@ -20,3 +20,4 @@ Repository contains commits/branches/PRs/tags that can be associated with Jira i
 - Connect your GitHub account to GIJ
 - Open GIJDEMO-1 in Jira
 - Open GIJDEMO-2 in Jira
+- Open GIJDEMO-3 in Jira
